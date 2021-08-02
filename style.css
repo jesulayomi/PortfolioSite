@@ -1,0 +1,75 @@
+/* body{
+
+    padding : 20px;
+    max-width: 700px;
+    width: 80%;
+    margin: 0 auto;
+} */
+#hr{
+    color:#fff;
+    height: 1px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+   
+    
+    
+}
+
+body{
+    background: url(./images/kelly-sikkema-vtKc7BpJ-vU-unsplash.jpg);
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+html{
+    height: 100%;
+}
+/* img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+    background: url(./images/kelly-sikkema-vtKc7BpJ-vU-unsplash.jpg);
+} */
+
+#content1{
+    font-family: Raleway;
+    text-align: center;
+    
+    text-shadow:  0px 4px 3px rgb(0, 0, 0),
+                  0px 8px 13px rgba(0,0,0,0.1),
+                  0px 18px 23px rgba(0,0,0,0.1) ;
+
+    
+}
+/* #content2{
+    font-family: Raleway;
+    text-align: center;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    text-shadow:  0px 4px 3px rgb(0, 0, 0),
+                  0px 8px 13px rgba(0,0,0,0.1),
+                  0px 18px 23px rgba(0,0,0,0.1) ;
+} */
+
+
+
+/* p{
+    letter-spacing: 0.3rem;
+    font-family:Raleway;
+    margin: 0 auto;
+    font-size: 23px;
+    text-align: center;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 2px solid #31c5ff;
+    width: 40%;
+    padding: 15px;
+    
+} */
